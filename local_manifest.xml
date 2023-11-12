@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/spes" name="leoxsys/device_xiaomi_spes.git" remote="github" revision="14.0" />
+ <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaomi/spes" name="crdroidandroid/android_vendor_xiaomi_spes.git" remote="github" revision="13.0" />
+ <project path="kernel/xiaomi/spes" name="crdroidandroid/header_kernel_xiaomi_spes" remote="github" revision="13.0" />
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi " remote="github" revision="lineage-20" />
+
+</manifest>
